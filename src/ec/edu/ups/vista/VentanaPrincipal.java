@@ -21,7 +21,6 @@ public class VentanaPrincipal extends javax.swing.JFrame {
     double x;
     int cn;
     int y;
-    int k;
 
     public VentanaPrincipal() {
         initComponents();
